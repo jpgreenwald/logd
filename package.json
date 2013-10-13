@@ -1,0 +1,17 @@
+{
+  "name": "logd",
+  "version": "0.0.1",
+  "description": "simple remote logging utility test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Greenwald",
+  "license": "MIT",
+  "dependencies": {
+    "helenus": "~0.6.4",
+    "node-uuid": "~1.4.1",
+    "restify": "~2.6.0",
+    "async": "~0.2.9"
+  }
+}
